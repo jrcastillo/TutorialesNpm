@@ -1,0 +1,18 @@
+{
+  "name": "pruebatutoriales",
+  "version": "1.0.0",
+  "description": "probando how to npm",
+  "main": "index.js",
+  "repository": "https://github.com/jrcastillo/TutorialesNpm.git",
+  "scripts": {
+    "test": " node test.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ramon Castillo",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
